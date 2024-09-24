@@ -1,4 +1,4 @@
-# Creating an automated keyboard with a Raspberry pi
+# Creación de un teclado automatico con RaspberryPi
 
 Algunos modelos de Raspberry como la Pi Zero y Pi Zero W cuentan con un puerto
 USB OTG, esto permite que sean configuradas para comportarse como dispositivos
